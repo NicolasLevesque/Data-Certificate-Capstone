@@ -70,4 +70,4 @@ This repository contains my capstone project analyzing Cyclistic bike-share data
 - [Data Prep & Cleaning on Kaggle](https://www.kaggle.com/code/nicolaslevesque/cyclistic-case-study-data-prep-cleaning)  
 
 ## Contact  
-For questions or feedback, connect with me on **[LinkedIn](#)** or email me at [your_email@example.com](mailto:your_email@example.com).  
+For questions or feedback, connect with me on **[LinkedIn](www.linkedin.com/in/nicolas-levesque-a7b49833b)** or email me at [your_email@example.com](mailto:your_email@example.com).  
